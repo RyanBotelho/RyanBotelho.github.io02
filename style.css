@@ -1,0 +1,9 @@
+.texto {
+    text-align: center;
+color: green;
+    font-size: 30px;
+}
+
+.baixo {
+    margin-bottom: -30px;
+}
